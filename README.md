@@ -7,7 +7,6 @@ This project focuses on the classification of Hepatitis cases using a decision t
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Dataset](#dataset)
 
 
